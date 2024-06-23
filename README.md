@@ -2,6 +2,8 @@
 # christopher willians
 FullStack Developer 
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-willians-018a282b4/)
