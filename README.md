@@ -6,7 +6,7 @@
 <h3 align="left" style="color: purple;">Connect with me!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-willians-018a282b4/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/christopher__fifo/)
 
 
 <h3 align="left" style="color: purple;">My Stack ~</h3>
@@ -24,19 +24,19 @@
 
 <img align="right" alt="" height="190px"  src="./src/study.gif">
 
- <h4 align="left" style="color: purple;">Bibliotecas e Frameworks</h4>
+ <h4 align="left" style="color: purple;">Libraries & Frameworks</h4>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<h4 align="left" style="color: purple;">Banco de dados</h4>
+<h4 align="left" style="color: purple;">Database</h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 
-<h4 align="left" style="color: purple;">Ferramentas</h4>
+<h4 align="left" style="color: purple;">Tools</h4>
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
