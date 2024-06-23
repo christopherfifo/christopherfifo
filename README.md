@@ -2,8 +2,6 @@
 # <span style="color: purple;">FullStack Developer</span> ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
  </br>
 
-<img align="right" alt="" height="190px"  style="margin-top: 100px;" src="./src/study.gif">
-
 
 <h3 align="left" style="color: purple;">Connect with me!</h3>
 
@@ -24,6 +22,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
+<img align="right" alt="" height="190px"  src="./src/study.gif">
 
  <h4 align="left" style="color: purple;">Bibliotecas e Frameworks</h4>
 
