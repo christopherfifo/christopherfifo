@@ -57,6 +57,5 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake-dark.svg">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherfifo&show_icons=true&theme=radical)
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake.svg">
 </picture>
