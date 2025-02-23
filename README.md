@@ -93,3 +93,45 @@
 </picture>
 </div>
 <!-- https://blog.suriyadisha.com/how-i-improved-my-github-profile-readme -->
+
+<h3>💻 Software and Tools</h3>
+
+<div align="left">
+
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat-square&logo=github&logoColor=white"></a>
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=flat-square&logo=github&logoColor=white"></a>
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=white"></a>
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"></a>
+<a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white"></a>
+
+</div>
+
+<h3>📡 Systems</h3>
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+<div style="text-align: center;">
+  <h3>📊 GitHub Stats</h3>
+  <br>
+  
+  <!-- Alinhando os gráficos lado a lado -->
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherfifo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats" style="width: 56%;">
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherfifo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages" style="width: 40%;">
+  </div>
+
+  <!-- Gráfico de atividade -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Christopherfifo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=christopherfifo&bg_color=000&color=8B00FF&line=8B00FF&point=FFFFFF&hide_border=true" style="width: 100%;">
+  </a>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<!-- https://blog.suriyadisha.com/how-i-improved-my-github-profile-readme -->
