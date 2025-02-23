@@ -32,17 +32,18 @@
 
 <div align="left">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) <!-- Adicionado -->
 ![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-E57300?style=for-the-badge&logo=zustand&logoColor=white)
 ![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white) <!-- Adicionado -->
-![Zod](https://img.shields.io/badge/Zod-6F00FF?style=for-the-badge&logo=zod&logoColor=white) <!-- Adicionado -->
-![React Icons](https://img.shields.io/badge/React%20Icons-00D8FF?style=for-the-badge&logo=react&logoColor=white) <!-- Adicionado -->
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) <!-- Adicionado -->
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-6F00FF?style=for-the-badge&logo=zod&logoColor=white)
+![React Icons](https://img.shields.io/badge/React%20Icons-00D8FF?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
