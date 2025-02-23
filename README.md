@@ -24,6 +24,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <!-- Adicionado -->
+
 </div>
 
 <h3>🧰 Frameworks and Libraries</h3>
@@ -37,6 +39,10 @@
 ![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-E57300?style=for-the-badge&logo=zustand&logoColor=white)
 ![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white) <!-- Adicionado -->
+![Zod](https://img.shields.io/badge/Zod-6F00FF?style=for-the-badge&logo=zod&logoColor=white) <!-- Adicionado -->
+![React Icons](https://img.shields.io/badge/React%20Icons-00D8FF?style=for-the-badge&logo=react&logoColor=white) <!-- Adicionado -->
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) <!-- Adicionado -->
 
 </div>
 
@@ -49,6 +55,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <!-- Adicionado -->
 
 </div>
 
