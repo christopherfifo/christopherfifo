@@ -15,7 +15,6 @@
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=sql" />
 <img src="https://skillicons.dev/icons?i=md" />
 
 <h3>📚 Experience</h3>
@@ -55,7 +54,6 @@
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=prisma" />
 <img src="https://skillicons.dev/icons?i=notion" />
-<img src="https://skillicons.dev/icons?i=excel" />
 <img src="https://skillicons.dev/icons?i=postgresql" />
 
 </div>
@@ -70,7 +68,6 @@
 <img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://skillicons.dev/icons?i=jira" />
-<img src="https://skillicons.dev/icons?i=canva" />
 
 </div>
 
