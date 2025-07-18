@@ -32,18 +32,12 @@
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=vite" />
 <img src="https://skillicons.dev/icons?i=nextjs" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=dotnet" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=axios" />
-<img src="https://skillicons.dev/icons?i=zustand" />
-<img src="https://skillicons.dev/icons?i=reactquery" />
-<img src="https://skillicons.dev/icons?i=reacthookform" />
-<img src="https://skillicons.dev/icons?i=zod" />
-<img src="https://skillicons.dev/icons?i=reacticons" />
-
 </div>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -51,10 +45,11 @@
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=prisma" />
+<img src="https://skillicons.dev/icons?i=obsidian" />
 <img src="https://skillicons.dev/icons?i=notion" />
-<img src="https://skillicons.dev/icons?i=postgresql" />
 
 </div>
 
@@ -66,8 +61,10 @@
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=visualstudio" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=jira" />
 
 </div>
 
