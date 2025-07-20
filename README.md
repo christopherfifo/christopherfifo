@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center;">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A020F0&section=header&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A020F0&section=header&reversal=false&descAlign=100"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A020F0&center=true&vCenter=true&width=550&height=56&lines=Ol%C3%A1%2C+eu+sou+o+Christopher!;Desenvolvedor+Fullstack+-+Web+%26+Dados;Foco+em+solu%C3%A7%C3%B5es+reais;Aprendendo%2C+criando+e+evoluindo;Sempre+buscando+novos+desafios+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -141,5 +141,5 @@ Sou movido por desafios e estou constantemente buscando melhorar minhas habilida
 </div>
 
 <div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center;">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A020F0&section=footer&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A020F0&section=footer&reversal=false&descAlign=100"/>
 </div>
