@@ -10,13 +10,13 @@
 
 👋 Olá! Eu sou Christopher Willians Silva Couto
 
-Sou um desenvolvedor FullStack com paixão por tecnologia, inovação e aprendizado contínuo. Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) e atuo como estagiário técnico de TI no INSS.
+Sou um desenvolvedor FullStack com paixão por tecnologia, inovação e aprendizado contínuo. Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP).
 
-Tenho experiência prática em desenvolvimento web, ciência de dados, inteligência artificial, e análise de sistemas. Gosto de criar soluções completas, desde o frontend responsivo até a lógica backend com integração a bancos de dados relacionais.
+Tenho experiência prática em desenvolvimento web, ciência de dados, e análise de sistemas. Gosto de criar soluções completas, desde o frontend responsivo até a lógica backend com integração a bancos de dados relacionais.
 
 Trabalho com tecnologias como:
 
-- JavaScript, TypeScript, React, Next.js, Node.js, C#, PHP
+- JavaScript, TypeScript, React, Next.js, Node.js, Express, C#, PHP, Java, C
 
 - MySQL, PostgreSQL, MongoDB
 
