@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A020F0&center=true&vCenter=true&width=550&height=56&lines=Ol%C3%A1%2C+eu+sou+o+Christopher!;Desenvolvedor+Fullstack+-+Web+%26+Dados;Foco+em+solu%C3%A7%C3%B5es+reais;Aprendendo%2C+criando+e+evoluindo;Sempre+buscando+novos+desafios+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center;">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=christopherfifo&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+</div>
+
 <img alt="Christopherfifo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=christopherfifo&bg_color=000&color=8B00FF&line=8B00FF&point=FFFFFF&hide_border=true" style="width: 100%; margin-top: 20px;">
 
 # <span>🃏 FullStack Developer</span>
