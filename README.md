@@ -136,10 +136,6 @@ Sou movido por desafios e estou constantemente buscando melhorar minhas habilida
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/github-contribution-grid-snake.svg" style=" width:100%; margin-top:-30px;">
 </picture>
 
-<div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center;margin-top:30px; margin-bottom:20px;">
-    <img src="https://komarev.com/ghpvc/?username=christopherfifo&style=for-the-badge&color=A020F0" alt="Profile views" />
-</div>
-
 <div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center;">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A020F0&section=footer&reversal=false&descAlign=100"/>
 </div>
