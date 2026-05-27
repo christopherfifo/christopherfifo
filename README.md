@@ -61,17 +61,13 @@ Sou movido por desafios e estou constantemente buscando melhorar minhas habilida
 
 ## ⭐️ &nbsp;GitHub Stats
 
-<div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center;gap: 1rem; align-items:center; margin-top:20px; margin-bottom:60px;">
+<div align="center" style="width: 100%; display: flex; flex-direction: row; justify-content: center; gap: 1rem; align-items:center; margin-top:20px; margin-bottom:60px;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christopherfifo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A020F0&text_color=FFF&border_radius=3&border_color=A020F0&icon_color=A020F0" style="flex:1; margin-top: 20px;"/>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfifo&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=A020F0&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" alt="Most Used Languages" style="flex:1;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christopherfifo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=A020F0&text_color=FFF&border_radius=3&border_color=A020F0&icon_color=A020F0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfifo&layout=compact&langs_count=8&hide=html,css&bg_color=000000&title_color=A020F0&text_color=ffffff&icon_color=A020F0&border_color=A020F0"/>
+
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/christopherfifo?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/christopherfifo">
-</picture>
 
 
 # 🛠 &nbsp;Languages & Techs
