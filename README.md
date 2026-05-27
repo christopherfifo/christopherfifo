@@ -68,6 +68,12 @@ Sou movido por desafios e estou constantemente buscando melhorar minhas habilida
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfifo&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=A020F0&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" alt="Most Used Languages" style="flex:1;">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/christopherfifo?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/christopherfifo">
+</picture>
+
+
 # 🛠 &nbsp;Languages & Techs
 
 <h3> 🎨 Frontend Development <h3>
