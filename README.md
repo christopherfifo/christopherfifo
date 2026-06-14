@@ -31,9 +31,7 @@ Trabalho com tecnologias como:
 
 Sou movido por desafios e estou constantemente buscando melhorar minhas habilidades, contribuir com projetos reais e aprender com a comunidade dev.
 
-<p align="center" style="width: 100%; display: flex; flex-direction: column; justify-content: center; gap: 1rem; align-items: center; margin-block: 40px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=christopherfifo&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
-</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christopherfifo/christopherfifo/output/pacman-contribution-graph-dark.svg">
@@ -70,21 +68,11 @@ Sou movido por desafios e estou constantemente buscando melhorar minhas habilida
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=christopherfifo&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
   />
 
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=christopherfifo&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
-  />
+
 </p>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherfifo&layout=compact&langs_count=6&hide=html,css&bg_color=000000&title_color=A020F0&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" alt="Most Used Languages" style="flex:1;">
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/christopherfifo?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/christopherfifo">
-</picture>
-
 
 # 🛠 &nbsp;Languages & Techs
 
